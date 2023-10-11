@@ -1,0 +1,3 @@
+# Ryan Miller Networking Examples
+
+Growing up I always had networking equipment in the home because my dad helped start a software company in the mid-90s. Being at my current job allowed me the ability to really dive into server management, switch management, server rack setup, running wire, configuring access points, and more. Because we had a multi-site SD-WAN setup I really had to brush up on my networking understanding. It proved vital when an SD-WAN software update bricked our phones. On a weekend I had to troubleshoot networking issues with techs over the phone. It was fun.
